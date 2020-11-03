@@ -1,0 +1,36 @@
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\bin\Debug\araba.exe.config
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\bin\Debug\araba.exe
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\bin\Debug\araba.pdb
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\obj\Debug\araba.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\obj\Debug\araba.Form1.resources
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\obj\Debug\araba.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\obj\Debug\araba.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\obj\Debug\araba.exe
+c:\users\windows\documents\visual studio 2012\Projects\araba\araba\obj\Debug\araba.pdb
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\bin\Debug\araba.exe.config
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.exe
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.pdb
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\bin\Debug\araba.exe.config
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.exe
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.pdb
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\bin\Debug\araba.exe
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\bin\Debug\araba.pdb
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.csprojResolveAssemblyReference.cache
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.Form1.resources
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.Properties.Resources.resources
+C:\Users\Raşit\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.csproj.GenerateResource.Cache
+D:\08.04,2017 format öncesi\ARABA PROJE\araba1\araba\bin\Debug\araba.exe.config
+D:\08.04,2017 format öncesi\ARABA PROJE\araba1\araba\obj\Debug\araba.exe
+D:\08.04,2017 format öncesi\ARABA PROJE\araba1\araba\obj\Debug\araba.pdb
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\bin\Debug\araba.exe
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\bin\Debug\araba.pdb
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.csprojResolveAssemblyReference.cache
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.Form1.resources
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.Properties.Resources.resources
+C:\Users\WINDOWS\Desktop\ARABA PROJE\araba1\araba\obj\Debug\araba.csproj.GenerateResource.Cache
+C:\Users\BATUHAN\Desktop\Arduino Araba\araba1\araba\bin\Debug\araba.exe.config
+C:\Users\BATUHAN\Desktop\Arduino Araba\araba1\araba\obj\Debug\araba.exe
+C:\Users\BATUHAN\Desktop\Arduino Araba\araba1\araba\obj\Debug\araba.pdb
+D:\Batuhan Tur\masaüstü\Arduino Araba\araba1\araba\bin\Debug\araba.exe.config
+D:\Batuhan Tur\masaüstü\Arduino Araba\araba1\araba\obj\Debug\araba.exe
+D:\Batuhan Tur\masaüstü\Arduino Araba\araba1\araba\obj\Debug\araba.pdb
